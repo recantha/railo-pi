@@ -1,0 +1,4 @@
+#!/bin/bash
+cd $(dirname $0)
+./direct-iptables-from-80-to-8888.sh
+java -DSTOP.PORT=8887 -DSTOP.KEY=railo -Xms128M  -Xmx128M -jar start.jar

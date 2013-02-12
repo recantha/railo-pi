@@ -1,0 +1,70 @@
+body {
+	font-family: Arial, sans-serif;
+}
+.clear { clear:both; }
+h1,h2,h3,h4,h5,h6 { margin:0 0 5px 0; padding:0;}
+
+#meteo { float:left; width:60%; }
+#video-stream { float:left; padding-left: 8px; width: 35%;}
+
+.feed { width: 300px; font-size: 9pt; margin-bottom: 16px;}
+
+
+
+#meteoprog_1360434589 {width:285px !important;_width:295px !important;overflow:hidden !important;
+border-radius:5px !important;-moz-border-radius:5px !important;-webkit-border-radius:5px !important;
+border:1px solid #B2B2B2 !important;
+padding:3px 4px;
+}
+#meteoprog_1360434589 .fh {float:left !important;overflow:hidden !important;}
+#meteoprog_1360434589 .fr {float:right !important;overflow:hidden !important;}
+#meteoprog_1360434589 .cl{font-size:0 !important;line-height:0 !important;clear:both !important;height:1px !important;}
+
+.meteoprog_1360434589_error {text-align:center !important; color:#DF2421 !important;font-size:13px !important;font-weight:bold !important;line-height:13px !important;}
+#meteoprog_1360434589 .meteoprogc_1360434589 {
+border-bottom:1px solid #B2B2B2 !important;
+padding:3px 0px !important;
+}
+#meteoprog_1360434589 .meteoprogc_1360434589_one {border:0px !important;padding:0px !important;}
+#meteoprog_1360434589 .meteoprogc_1360434589_first {border-top:0px !important;padding-top:0px !important;}
+#meteoprog_1360434589 .meteoprogc_1360434589_last {border-bottom:0px !important;padding-bottom:0px !important;}
+
+#meteoprog_1360434589 a{outline:0 !important; font-family:Tahoma !important;}
+#meteoprog_1360434589 {vertical-align:middle !important;text-align:left !important;color:#222222 !important;}
+#meteoprog_1360434589 .tb td {padding:0px 0px !important;}
+#meteoprog_1360434589 .tb td a.t-city {color:#5283C2 !important; font-size:13px !important;line-height:13px !important; font-weight:bold !important;}
+#meteoprog_1360434589 .tb td a.t-city:hover {text-decoration:none !important;}
+#meteoprog_1360434589 .tb td a.t-city span {width:65% !important;display:block !important;}
+
+#meteoprog_1360434589 .w-logo div {padding-bottom:5px !important;position:relative !important;overflow:hidden !important;}
+#meteoprog_1360434589 .w-logo img {position:absolute !important;right:0 !important;top:2px !important;display:none !important;}
+
+#meteoprog_1360434589 .meteoprogc_1360434589_one .w-logo div,
+#meteoprog_1360434589 .meteoprogc_1360434589_first .w-logo div {line-height:13px !important}
+#meteoprog_1360434589 .meteoprogc_1360434589_one .w-logo img,
+#meteoprog_1360434589 .meteoprogc_1360434589_first .w-logo img {display:block !important;}
+
+#meteoprog_1360434589 .w-desc {line-height:1em !important;color:#adadad !important;font-size:11px !important;text-align:center !important;}
+#meteoprog_1360434589 .w-city {}
+#meteoprog_1360434589 .w-city .popup{float:right !important;margin-left:5px !important;}
+
+#meteoprog_1360434589 .w-city a.lbl {color:#000888 !important;font-size:15px;font-weight:bold !important;text-decoration:underline !important;}
+#meteoprog_1360434589 .w-temp {width:45% !important;}
+#meteoprog_1360434589 .w-temp a {text-decoration:none !important;}
+#meteoprog_1360434589 .w-temp span{white-space:nowrap !important;padding-left:0px !important;padding-right:2px !important;color:#DF2421 !important;font-size:18px !important;font-family:Arial !important; font-weight:bold !important;}
+#meteoprog_1360434589 .w-temp span.minus {color:#416EB1 !important;}
+
+#meteoprog_1360434589 .w-icon {width:25% !important;}
+#meteoprog_1360434589 .w-icon-wp {height:28px !important; overflow:hidden !important;}
+
+#meteoprog_1360434589 .w-param {white-space:nowrap !important;}
+#meteoprog_1360434589 .w-param p {line-height:1em !important;margin:0 !important;color:#acacac !important;font-size:9px !important;}
+#meteoprog_1360434589 .w-param p span {padding-left:5px !important;color:#222222 !important;font-size:9px !important;}
+
+#meteoprog_1360434589 td.w-other {text-align:left !important;padding-top:8px !important;}
+#meteoprog_1360434589 .w-other span {font-size:10px !important;color:#ADADAD !important;}
+#meteoprog_1360434589 .w-other a{ font-size:11px !important;padding:0 0px !important;text-decoration:none !important;}
+
+#meteoprog_1360434589 .w-other .date-line {padding:0 3px !important;display:block;line-height:14px;height:14px;background:#f2f2f2;}
+#meteoprog_1360434589 .w-other .date-line .item1 {color:#000 !important; font-family:Tahoma !important;}
+#meteoprog_1360434589 .w-other .date-line .item3 {font-weight:bold !important;}
